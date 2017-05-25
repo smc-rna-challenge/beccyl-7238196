@@ -1,0 +1,8 @@
+{
+    "TUMOR_FASTQ_2": "syn9898438", 
+    "TUMOR_FASTQ_1": "syn9898365", 
+    "REFERENCE_GENOME": "syn9898755", 
+    "genome": "syn9879605", 
+    "jaffa_reference": "syn9879607", 
+    "REFERENCE_GTF": "syn9898774"
+}
