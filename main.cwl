@@ -1,6 +1,10 @@
 class: Workflow
 cwlVersion: v1.0
-doc: jaffa workflow
+dct:creator: {'@id': 'http://orcid.org/0000-0002-7681-6415', 'foaf:mbox': beccyl@synapse.org,
+  'foaf:name': beccyl}
+doc: 'SMC-RNA challenge fusion detection submission
+
+  jaffa workflow'
 hints: []
 id: main
 inputs:
